@@ -1,5 +1,5 @@
-#gcc-8-ubuntu-18.04 Dockerfile
-Brought to you by <a href="https://88plug">88plug</a>
+# gcc-8-ubuntu-18.04 Dockerfile
+Dockerfile for running gcc-8 with Ubuntu 18.04
 
-#Easy Way
+# Easy Way
 docker run -it 88plug/gcc-8-ubuntu-18.04 gcc --version
